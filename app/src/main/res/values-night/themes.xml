@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base theme for Dark Mode -->
+    <style name="Theme.MatrixStars" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary Colors for Dark Mode -->
+        <item name="colorPrimary">@color/colorPrimaryDark</item> <!-- Use darker shades -->
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+
+        <!-- Secondary Colors for Dark Mode -->
+        <item name="colorSecondary">@color/colorSecondaryDark</item> <!-- Darker Secondary Color -->
+        <item name="colorSecondaryVariant">@color/colorSecondaryDark</item>
+        <item name="colorOnSecondary">@color/colorOnSecondary</item>
+
+        <!-- Background and Text Colors for Dark Mode -->
+        <item name="android:windowBackground">@color/colorBackgroundDark</item>
+        <item name="android:textColorPrimary">@color/colorTextPrimaryDark</item>
+        <item name="android:textColorSecondary">@color/colorTextSecondaryDark</item>
+    </style>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Blue Colors -->
+    <color name="colorPrimary">#2196F3</color> <!-- Light Blue -->
+    <color name="colorPrimaryVariant">#1976D2</color> <!-- Darker Blue -->
+    <color name="colorOnPrimary">#FFFFFF</color> <!-- White Text on Primary -->
+
+    <!-- Secondary Blue Colors -->
+    <color name="colorSecondary">#03A9F4</color> <!-- Lighter Blue -->
+    <color name="colorSecondaryVariant">#0288D1</color> <!-- Darker Secondary Blue -->
+    <color name="colorOnSecondary">#FFFFFF</color> <!-- White Text on Secondary -->
+
+    <!-- Background and Text Colors -->
+    <color name="colorBackground">#F1F8FF</color> <!-- Light Blue Background -->
+    <color name="colorTextPrimary">#212121</color> <!-- Dark Text -->
+    <color name="colorTextSecondary">#757575</color> <!-- Lighter Text -->
+
+    <color name="colorPrimaryDark">#1565C0</color> <!-- Darker Blue for Dark Mode -->
+    <color name="colorPrimaryVariantDark">#0D47A1</color> <!-- Even Darker Blue -->
+    <color name="colorOnPrimary2">#FFFFFF</color> <!-- White Text on Primary -->
+
+    <!-- Secondary Blue Colors for Dark Mode -->
+    <color name="colorSecondaryDark">#0288D1</color> <!-- Darker Secondary Blue -->
+    <color name="colorSecondaryVariantDark">#01579B</color> <!-- Even Darker -->
+    <color name="colorOnSecondary2">#FFFFFF</color> <!-- White Text on Secondary -->
+
+    <!-- Background and Text Colors for Dark Mode -->
+    <color name="colorBackgroundDark">#303030</color> <!-- Dark Background -->
+    <color name="colorTextPrimaryDark">#FFFFFF</color> <!-- White Text -->
+    <color name="colorTextSecondaryDark">#BDBDBD</color> <!-- Lighter Gray Text -->
+
+
+</resources>
